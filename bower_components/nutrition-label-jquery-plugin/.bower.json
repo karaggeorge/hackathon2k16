@@ -1,0 +1,59 @@
+{
+  "name": "nutrition-label-jquery-plugin",
+  "version": "6.0.16",
+  "homepage": "https://github.com/nutritionix/nutrition-label",
+  "authors": [
+    "Leo Joseph Gajitos <leejay22@gmail.com>",
+    "Rommel Malang <genesis23rd@gmail.com>",
+    "Yurko Fedoriv <yurko.fedoriv@gmail.com>"
+  ],
+  "description": "To be able to create a FDA-style nutrition label with any nutrition data source",
+  "main": [
+    "/dist/js/nutritionLabel.js",
+    "/dist/css/nutritionLabel.css"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "nutrition",
+    "nutrition-label",
+    "jquery",
+    "plugin",
+    "jquery-plugin",
+    "fda",
+    "label",
+    "food-label"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "bootstrap/",
+    "css/",
+    "demo/",
+    "images/",
+    "js/",
+    "/*.css",
+    "/*.js",
+    "bower_components",
+    "nbproject",
+    "node_modules",
+    "test",
+    "tests",
+    "bower.json"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.8.0"
+  },
+  "_release": "6.0.16",
+  "_resolution": {
+    "type": "version",
+    "tag": "v6.0.16",
+    "commit": "07d1ca471d74282ce104962d077cc9cd067c559b"
+  },
+  "_source": "https://github.com/nutritionix/nutrition-label.git",
+  "_target": "^6.0.16",
+  "_originalSource": "nutrition-label-jquery-plugin",
+  "_direct": true
+}
